@@ -7,7 +7,7 @@ sites:
     url: https://elearningsmkn34jkt.sch.id/
     icon: https://elearningsmkn34jkt.sch.id/assets/img/icon/1768199336_77ecf7d1e9d071dc12aa.png
     type: globalping
-    location: jakarta
+    location: singapore
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
