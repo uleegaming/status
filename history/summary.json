@@ -4,7 +4,7 @@
     "url": "https://elearningsmkn34jkt.sch.id/",
     "icon": "https://elearningsmkn34jkt.sch.id/assets/img/icon/1768199336_77ecf7d1e9d071dc12aa.png",
     "slug": "e-learning-smkn-34-jakarta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1142,
     "timeDay": 669,
-    "timeWeek": 770,
+    "timeWeek": 803,
     "timeMonth": 1158,
     "timeYear": 1142,
     "dailyMinutesDown": {}
