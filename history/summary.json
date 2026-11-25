@@ -5,16 +5,16 @@
     "icon": "https://elearningsmkn34jkt.sch.id/assets/img/icon/1768199336_77ecf7d1e9d071dc12aa.png",
     "slug": "e-learning-smkn-34-jakarta",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.10%",
-    "uptimeYear": "99.38%",
-    "time": 1337,
-    "timeDay": 825,
-    "timeWeek": 1343,
-    "timeMonth": 1330,
-    "timeYear": 1337,
+    "uptimeYear": "99.39%",
+    "time": 1325,
+    "timeDay": 751,
+    "timeWeek": 1330,
+    "timeMonth": 1331,
+    "timeYear": 1325,
     "dailyMinutesDown": {
       "2026-11-13": 395
     }
